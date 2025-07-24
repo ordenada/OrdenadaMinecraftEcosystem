@@ -35,6 +35,12 @@
         <repository>
             <url>https://repo.papermc.io/repository/maven-public/</url>
             <id>paper</id>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
         </repository>
     </repositories>
 
